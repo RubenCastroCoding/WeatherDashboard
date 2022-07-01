@@ -6,4 +6,4 @@ As a user i want to be able to select a city in a a search bar. After that the u
 ![WeatherScreenshot](https://user-images.githubusercontent.com/98436010/176809303-2bb7fff8-b7f7-4448-8ee9-8a2d9a045120.JPG)
 
 ### Live url 
-
+https://rubencastrocoding.github.io/WeatherDashboard/
